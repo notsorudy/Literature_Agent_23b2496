@@ -1,0 +1,15 @@
+arxiv==1.4.6
+requests>=2.28
+tqdm
+python-dotenv
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+rouge-score
+openai
+streamlit
+google-generativeai
+pandas
+PyPDF2
+faiss-cpu
+numpy
+evaluate
