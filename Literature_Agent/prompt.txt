@@ -1,0 +1,16 @@
+Please provide a detailed and comprehensive summary of the following academic paper or section.
+
+Title: {title}
+
+Context: {context}
+
+Text: {text[:10000]}  # Increased input length for Gemini
+
+Your detailed summary should include:
+- 🎯 Clear statement of the research problem and objectives
+- 🧪 Description of methodologies and experiments conducted
+- 🔑 Results and findings with quantitative or qualitative detail
+- 📊 Discussion of implications and significance of the work
+- ⚠️ Any stated limitations and areas for future work
+
+Format the answer in clear paragraphs or detailed bullet points.
